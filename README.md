@@ -35,7 +35,7 @@
 ### 개발환경
 - 사용 언어 : Java, JavaScript, HTML, CSS
 - 사용 프레임워크 : MyBatis
-- 사용 라이브러리 : jQuery, D3.js, TOAST UI Editor
+- 사용 라이브러리 : jQuery, D3.js, TOAST UI Editor, [cos.jar](http://www.servlets.com/cos/)
 - 사용 API : SNS 로그인(NAVER), Google Vision AI, 카카오지도, 다음 도로명주소, 아임포트
 - 사용 DB : Oracle Database 11g
 - 사용 서버 : Apache Tomcat 9.0
